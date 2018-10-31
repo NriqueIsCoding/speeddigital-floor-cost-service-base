@@ -1,0 +1,17 @@
+[
+  {
+    "amount_low": 0,
+    "amount_high": 25000,
+    "interest_rate": 3
+  },
+  {
+    "amount_low": 25001,
+    "amount_high": 50000,
+    "interest_rate": 4
+  },
+  {
+    "amount_low": 50001,
+    "amount_high": 100000,
+    "interest_rate": 4.5
+  }
+]
